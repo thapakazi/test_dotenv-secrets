@@ -1,0 +1,3 @@
+export WHOAMI="thapakazi"
+export IPADDR="127.0.0.1"
+export COUNTRY="Nepal"

@@ -1,0 +1,2 @@
+export IPADDR="localhost"
+export COUNTRY="NEPAL"
